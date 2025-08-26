@@ -6,10 +6,10 @@ A minimal AI workflow system that processes email inquiries, extracts structured
 
 This application implements a complete email processing pipeline:
 
-1. **Email Input** 📧 - Processes `.txt` email files from an inbox directory
-2. **Structured Data Extraction** 🔍 - Parses emails to extract sender info, products, quantities, and requirements
-3. **Reply Generation** ✉️ - Creates professional acknowledgment emails with follow-up questions
-4. **Quote JSON Generation** 💰 - Generates detailed quotes with pricing, discounts, and taxes
+1. **Email Input**  - Processes `.txt` email files from an inbox directory
+2. **Structured Data Extraction**  - Parses emails to extract sender info, products, quantities, and requirements
+3. **Reply Generation** - Creates professional acknowledgment emails with follow-up questions
+4. **Quote JSON Generation** - Generates detailed quotes with pricing, discounts, and taxes
 
 ## Quick Start
 
