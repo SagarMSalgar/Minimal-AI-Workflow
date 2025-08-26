@@ -1,0 +1,35 @@
+{
+  "tiers": [
+    {
+      "min_amount": 0,
+      "max_amount": 100,
+      "discount": 0.05,
+      "description": "Standard 5% discount for orders under $100"
+    },
+    {
+      "min_amount": 100,
+      "max_amount": 500,
+      "discount": 0.10,
+      "description": "10% discount for orders $100-$500"
+    },
+    {
+      "min_amount": 500,
+      "max_amount": 1000,
+      "discount": 0.15,
+      "description": "15% discount for orders $500-$1000"
+    },
+    {
+      "min_amount": 1000,
+      "max_amount": 999999,
+      "discount": 0.20,
+      "description": "20% discount for orders over $1000"
+    }
+  ],
+  "special_rules": {
+    "bulk_discount": {
+      "min_quantity": 50,
+      "additional_discount": 0.05,
+      "description": "Additional 5% discount for orders with 50+ units"
+    }
+  }
+}

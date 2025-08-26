@@ -1,0 +1,11 @@
+{
+  "tax_rate": 0.095,
+  "default_currency": "USD",
+  "quote_validity_days": 7,
+  "sla_hours": 24,
+  "company_name": "Acme Corp",
+  "contact_email": "sales@acme.com",
+  "company_address": "123 Business St, City, State 12345",
+  "phone": "+1-555-123-4567",
+  "website": "www.acmecorp.com"
+}

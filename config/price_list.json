@@ -1,0 +1,32 @@
+{
+  "Widget Pro": {
+    "price": 25.00,
+    "unit": "piece",
+    "description": "Professional grade widget with advanced features"
+  },
+  "Gadget Basic": {
+    "price": 15.50,
+    "unit": "piece",
+    "description": "Basic gadget for everyday use"
+  },
+  "Tool Kit": {
+    "price": 45.00,
+    "unit": "kit",
+    "description": "Complete tool kit with all essential tools"
+  },
+  "Premium Widget": {
+    "price": 75.00,
+    "unit": "piece",
+    "description": "Premium widget with luxury features"
+  },
+  "Bulk Pack": {
+    "price": 200.00,
+    "unit": "pack",
+    "description": "Bulk pack containing 10 units"
+  },
+  "Special Item": {
+    "price": 35.00,
+    "unit": "piece",
+    "description": "Special item with unique properties"
+  }
+}
