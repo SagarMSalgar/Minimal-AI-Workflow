@@ -1,0 +1,38 @@
+{
+  "email_id": "d37d845a",
+  "timestamp": "2025-08-25T18:25:41.231089",
+  "sender": {
+    "name": "Mike Wilson",
+    "email": "mike@startup.io",
+    "confidence": 1.0
+  },
+  "products": [
+    {
+      "name": "Widget Pro",
+      "quantity": 5.0,
+      "unit": null,
+      "confidence": 1.0,
+      "notes": "Unit not specified"
+    },
+    {
+      "name": "Tool Kit",
+      "quantity": 3.0,
+      "unit": null,
+      "confidence": 1.0,
+      "notes": "Unit not specified"
+    },
+    {
+      "name": "Premium Widget",
+      "quantity": null,
+      "unit": null,
+      "confidence": 0.9,
+      "notes": "Quantity not specified; Unit not specified"
+    }
+  ],
+  "urgency": "high",
+  "currency": null,
+  "gaps": [
+    "Missing quantity for Premium Widget"
+  ],
+  "raw_content": "From: Mike Wilson <mike@startup.io>\nSubject: Need 5 asap\n\nHey,\n\nWe need 5 Widget Pro and 3 Tool Kit asap for our demo next week. Also interested in the Premium Widget but not sure about quantity yet.\n\nCan you give us a quote? We're in a rush!\n\nMike\nStartup.io\n"
+}

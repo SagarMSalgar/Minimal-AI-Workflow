@@ -1,0 +1,29 @@
+{
+  "email_id": "351e9b26",
+  "timestamp": "2025-08-25T18:25:41.260869",
+  "status": "complete",
+  "line_items": [
+    {
+      "product": "Gadget Basic",
+      "quantity": 15.0,
+      "unit_price": 15.5,
+      "total": 232.5,
+      "unit": "piece"
+    },
+    {
+      "product": "Special Item",
+      "quantity": 2.0,
+      "unit_price": 35.0,
+      "total": 70.0,
+      "unit": "piece"
+    }
+  ],
+  "subtotal": 302.5,
+  "discount": 30.25,
+  "tax": 25.86,
+  "total": 298.11,
+  "currency": "EUR",
+  "pending_reasons": [],
+  "valid_until": "2025-09-01T18:25:41.260856",
+  "discount_rate": 10.0
+}

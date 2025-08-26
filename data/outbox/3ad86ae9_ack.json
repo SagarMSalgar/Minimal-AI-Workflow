@@ -1,0 +1,14 @@
+{
+  "email_id": "3ad86ae9",
+  "timestamp": "2025-08-25T18:25:41.253685",
+  "to": "david.chen@enterprise.com",
+  "subject": "Re: Quote Request for 3 Items",
+  "greeting": "Dear David Chen,",
+  "body": "Thank you for your inquiry. We appreciate your interest in Acme Corp products.\n\nWe have received your inquiry about the following products: Widget Pro, Premium Widget, Bulk Pack.\n\nWe have all the necessary information to prepare your quote.\n\nWe will provide your quote within 24 hours. If you have any questions, please don't hesitate to contact us at sales@acme.com.",
+  "questions": [
+    "Do you have any specific delivery requirements or timeline preferences?"
+  ],
+  "closing": "Best regards,\n\nAcme Corp Sales Team\nsales@acme.com",
+  "sla_hours": 24,
+  "urgency_level": null
+}

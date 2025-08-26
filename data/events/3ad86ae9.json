@@ -1,0 +1,36 @@
+{
+  "email_id": "3ad86ae9",
+  "timestamp": "2025-08-25T18:25:41.251402",
+  "sender": {
+    "name": "David Chen",
+    "email": "david.chen@enterprise.com",
+    "confidence": 1.0
+  },
+  "products": [
+    {
+      "name": "Widget Pro",
+      "quantity": 50.0,
+      "unit": null,
+      "confidence": 1.0,
+      "notes": "Unit not specified"
+    },
+    {
+      "name": "Premium Widget",
+      "quantity": 25.0,
+      "unit": null,
+      "confidence": 1.0,
+      "notes": "Unit not specified"
+    },
+    {
+      "name": "Bulk Pack",
+      "quantity": 10.0,
+      "unit": null,
+      "confidence": 1.0,
+      "notes": "Unit not specified"
+    }
+  ],
+  "urgency": null,
+  "currency": null,
+  "gaps": [],
+  "raw_content": "From: David Chen <david.chen@enterprise.com>\nSubject: Large Order Quote Request\n\nHello,\n\nWe are planning a large purchase and need quotes for the following:\n\n- 50 Widget Pro pieces\n- 25 Premium Widget pieces\n- 10 Bulk Pack units\n\nThis is for our annual equipment refresh. Please provide detailed pricing with any volume discounts available.\n\nRegards,\nDavid Chen\nEnterprise Solutions\nProcurement Department\n"
+}

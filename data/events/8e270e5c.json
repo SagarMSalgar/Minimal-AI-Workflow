@@ -1,0 +1,32 @@
+{
+  "email_id": "8e270e5c",
+  "timestamp": "2025-08-25T18:25:41.245770",
+  "sender": {
+    "name": "Sarah Johnson",
+    "email": "sarah.j@techcorp.com",
+    "confidence": 1.0
+  },
+  "products": [
+    {
+      "name": "Gadget Basic",
+      "quantity": null,
+      "unit": null,
+      "confidence": 0.9,
+      "notes": "Quantity not specified; Unit not specified"
+    },
+    {
+      "name": "Gadget Basic",
+      "quantity": null,
+      "unit": null,
+      "confidence": 0.9,
+      "notes": "Quantity not specified; Unit not specified"
+    }
+  ],
+  "urgency": "high",
+  "currency": null,
+  "gaps": [
+    "Missing quantity for Gadget Basic",
+    "Missing quantity for Gadget Basic"
+  ],
+  "raw_content": "From: Sarah Johnson <sarah.j@techcorp.com>\nSubject: Inquiry about Gadget Basic\n\nHello,\n\nI'm interested in purchasing some Gadget Basic units for our office. Could you please provide pricing information?\n\nWe're looking to place an order soon, so please get back to me asap.\n\nBest regards,\nSarah Johnson\nTechCorp Inc.\n"
+}

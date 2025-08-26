@@ -1,0 +1,29 @@
+{
+  "email_id": "351e9b26",
+  "timestamp": "2025-08-25T18:25:41.258603",
+  "sender": {
+    "name": "Maria Garcia",
+    "email": "maria.garcia@global.com",
+    "confidence": 1.0
+  },
+  "products": [
+    {
+      "name": "Gadget Basic",
+      "quantity": 15.0,
+      "unit": null,
+      "confidence": 1.0,
+      "notes": "Unit not specified"
+    },
+    {
+      "name": "Special Item",
+      "quantity": 2.0,
+      "unit": null,
+      "confidence": 1.0,
+      "notes": "Unit not specified"
+    }
+  ],
+  "urgency": null,
+  "currency": "EUR",
+  "gaps": [],
+  "raw_content": "From: Maria Garcia <maria.garcia@global.com>\nSubject: Quote Request in EUR\n\nDear Sales Team,\n\nI would like to request a quote for the following items:\n- 15 Gadget Basic pieces\n- 2 Special Item units\n- 1 Custom Product (not in your catalog)\n\nPlease provide pricing in EUR currency.\n\nThank you,\nMaria Garcia\nGlobal Solutions Ltd.\n"
+}

@@ -1,0 +1,16 @@
+{
+  "email_id": "fe0d9389",
+  "timestamp": "2025-08-25T18:25:41.249753",
+  "status": "pending",
+  "line_items": [],
+  "subtotal": 0.0,
+  "discount": 0.0,
+  "tax": 0.0,
+  "total": 0.0,
+  "currency": null,
+  "pending_reasons": [
+    "Missing quantity for Widget Pro"
+  ],
+  "valid_until": "2025-09-01T18:25:41.249743",
+  "discount_rate": 0.0
+}

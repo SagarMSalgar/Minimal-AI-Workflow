@@ -1,0 +1,15 @@
+{
+  "email_id": "9461b2dd",
+  "timestamp": "2025-08-25T18:25:41.239988",
+  "to": "alex@smallbiz.com",
+  "subject": "Re: Quote Request for 3 Items",
+  "greeting": "Dear Alex Thompson,",
+  "body": "Thank you for your inquiry. We appreciate your interest in Acme Corp products.\n\nWe have received your inquiry about the following products: Tool Kit, Widget Pro, Gadget Basic.\n\nTo provide you with an accurate quote, we need some additional information about your requirements.\n\nWe will provide your quote within 24 hours. If you have any questions, please don't hesitate to contact us at sales@acme.com.",
+  "questions": [
+    "What quantity of Widget Pro do you need?",
+    "What quantity of Widget Pro do you need?"
+  ],
+  "closing": "Best regards,\n\nAcme Corp Sales Team\nsales@acme.com",
+  "sla_hours": 24,
+  "urgency_level": null
+}

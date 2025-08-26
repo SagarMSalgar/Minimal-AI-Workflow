@@ -1,0 +1,36 @@
+{
+  "email_id": "3ad86ae9",
+  "timestamp": "2025-08-25T18:25:41.256288",
+  "status": "complete",
+  "line_items": [
+    {
+      "product": "Widget Pro",
+      "quantity": 50.0,
+      "unit_price": 25.0,
+      "total": 1250.0,
+      "unit": "piece"
+    },
+    {
+      "product": "Premium Widget",
+      "quantity": 25.0,
+      "unit_price": 75.0,
+      "total": 1875.0,
+      "unit": "piece"
+    },
+    {
+      "product": "Bulk Pack",
+      "quantity": 10.0,
+      "unit_price": 200.0,
+      "total": 2000.0,
+      "unit": "pack"
+    }
+  ],
+  "subtotal": 5125.0,
+  "discount": 1025.0,
+  "tax": 389.5,
+  "total": 4489.5,
+  "currency": null,
+  "pending_reasons": [],
+  "valid_until": "2025-09-01T18:25:41.256274",
+  "discount_rate": 20.0
+}

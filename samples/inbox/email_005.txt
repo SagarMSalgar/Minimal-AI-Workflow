@@ -1,0 +1,17 @@
+From: David Chen <david.chen@enterprise.com>
+Subject: Large Order Quote Request
+
+Hello,
+
+We are planning a large purchase and need quotes for the following:
+
+- 50 Widget Pro pieces
+- 25 Premium Widget pieces
+- 10 Bulk Pack units
+
+This is for our annual equipment refresh. Please provide detailed pricing with any volume discounts available.
+
+Regards,
+David Chen
+Enterprise Solutions
+Procurement Department

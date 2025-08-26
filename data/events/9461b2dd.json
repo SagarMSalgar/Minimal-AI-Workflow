@@ -1,0 +1,39 @@
+{
+  "email_id": "9461b2dd",
+  "timestamp": "2025-08-25T18:25:41.238910",
+  "sender": {
+    "name": "Alex Thompson",
+    "email": "alex@smallbiz.com",
+    "confidence": 1.0
+  },
+  "products": [
+    {
+      "name": "Tool Kit",
+      "quantity": 2.0,
+      "unit": "kit",
+      "confidence": 1.0,
+      "notes": "Complete information extracted"
+    },
+    {
+      "name": "Widget Pro",
+      "quantity": null,
+      "unit": null,
+      "confidence": 0.9,
+      "notes": "Quantity not specified; Unit not specified"
+    },
+    {
+      "name": "Gadget Basic",
+      "quantity": null,
+      "unit": null,
+      "confidence": 0.9,
+      "notes": "Quantity not specified; Unit not specified"
+    }
+  ],
+  "urgency": null,
+  "currency": null,
+  "gaps": [
+    "Missing quantity for Widget Pro",
+    "Missing quantity for Gadget Basic"
+  ],
+  "raw_content": "From: Alex Thompson <alex@smallbiz.com>\nSubject: Re: Re: Re: Product Inquiry\n\n> On Tue, Jan 15, 2024 at 2:30 PM, Sales Team wrote:\n> > Thank you for your inquiry. We'd be happy to help.\n> \n> Thanks for the quick response!\n\nHi again,\n\nI'm still interested in the Tool Kit. Can you send me a quote for 2 kits?\n\nAlso, what's the difference between Widget Pro and Gadget Basic?\n\nThanks,\nAlex\n\n--\nAlex Thompson\nSmall Business Owner\nPhone: (555) 123-4567\nWebsite: www.smallbiz.com\n"
+}

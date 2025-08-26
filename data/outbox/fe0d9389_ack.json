@@ -1,0 +1,14 @@
+{
+  "email_id": "fe0d9389",
+  "timestamp": "2025-08-25T18:25:41.249360",
+  "to": "john.smith@example.com",
+  "subject": "Re: Widget Pro and Widget Pro Quote Request",
+  "greeting": "Dear John Smith,",
+  "body": "Thank you for your inquiry. We appreciate your interest in Acme Corp products.\n\nWe have received your inquiry about the following products: Widget Pro, Widget Pro.\n\nTo provide you with an accurate quote, we need some additional information: missing quantity for widget pro\n\nWe will provide your quote within 24 hours. If you have any questions, please don't hesitate to contact us at sales@acme.com.",
+  "questions": [
+    "What quantity of Widget Pro do you need?"
+  ],
+  "closing": "Best regards,\n\nAcme Corp Sales Team\nsales@acme.com",
+  "sla_hours": 24,
+  "urgency_level": null
+}

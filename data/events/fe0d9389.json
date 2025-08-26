@@ -1,0 +1,31 @@
+{
+  "email_id": "fe0d9389",
+  "timestamp": "2025-08-25T18:25:41.247478",
+  "sender": {
+    "name": "John Smith",
+    "email": "john.smith@example.com",
+    "confidence": 1.0
+  },
+  "products": [
+    {
+      "name": "Widget Pro",
+      "quantity": null,
+      "unit": null,
+      "confidence": 0.9,
+      "notes": "Quantity not specified; Unit not specified"
+    },
+    {
+      "name": "Widget Pro",
+      "quantity": 10.0,
+      "unit": null,
+      "confidence": 1.0,
+      "notes": "Unit not specified"
+    }
+  ],
+  "urgency": null,
+  "currency": null,
+  "gaps": [
+    "Missing quantity for Widget Pro"
+  ],
+  "raw_content": "From: John Smith <john.smith@example.com>\nSubject: Quote Request - Widget Pro\n\nHi there,\n\nI need a quote for 10 Widget Pro units. This is for our upcoming project and we need them delivered within the next two weeks.\n\nPlease let me know the total cost including shipping to our address in New York.\n\nThanks,\nJohn Smith\nABC Company\n"
+}

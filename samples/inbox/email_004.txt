@@ -1,0 +1,15 @@
+From: Maria Garcia <maria.garcia@global.com>
+Subject: Quote Request in EUR
+
+Dear Sales Team,
+
+I would like to request a quote for the following items:
+- 15 Gadget Basic pieces
+- 2 Special Item units
+- 1 Custom Product (not in your catalog)
+
+Please provide pricing in EUR currency.
+
+Thank you,
+Maria Garcia
+Global Solutions Ltd.

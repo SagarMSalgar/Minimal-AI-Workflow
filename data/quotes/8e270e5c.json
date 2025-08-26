@@ -1,0 +1,17 @@
+{
+  "email_id": "8e270e5c",
+  "timestamp": "2025-08-25T18:25:41.246819",
+  "status": "pending",
+  "line_items": [],
+  "subtotal": 0.0,
+  "discount": 0.0,
+  "tax": 0.0,
+  "total": 0.0,
+  "currency": null,
+  "pending_reasons": [
+    "Missing quantity for Gadget Basic",
+    "Missing quantity for Gadget Basic"
+  ],
+  "valid_until": "2025-09-01T18:25:41.246811",
+  "discount_rate": 0.0
+}

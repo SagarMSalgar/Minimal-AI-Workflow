@@ -1,0 +1,15 @@
+{
+  "email_id": "8e270e5c",
+  "timestamp": "2025-08-25T18:25:41.246559",
+  "to": "sarah.j@techcorp.com",
+  "subject": "Re: Gadget Basic and Gadget Basic Quote Request - URGENT",
+  "greeting": "Dear Sarah Johnson,",
+  "body": "Thank you for your urgent inquiry. We understand the time-sensitive nature of your request and will prioritize your quote accordingly.\n\nWe have received your inquiry about the following products: Gadget Basic, Gadget Basic.\n\nTo provide you with an accurate quote, we need some additional information about your requirements.\n\nWe will provide your quote within 12 hours. If you have any questions, please don't hesitate to contact us at sales@acme.com.",
+  "questions": [
+    "What quantity of Gadget Basic do you need?",
+    "What quantity of Gadget Basic do you need?"
+  ],
+  "closing": "Best regards,\n\nAcme Corp Sales Team\nsales@acme.com",
+  "sla_hours": 24,
+  "urgency_level": "high"
+}

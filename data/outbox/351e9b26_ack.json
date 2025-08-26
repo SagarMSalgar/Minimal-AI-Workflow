@@ -1,0 +1,14 @@
+{
+  "email_id": "351e9b26",
+  "timestamp": "2025-08-25T18:25:41.259907",
+  "to": "maria.garcia@global.com",
+  "subject": "Re: Gadget Basic and Special Item Quote Request",
+  "greeting": "Dear Maria Garcia,",
+  "body": "Thank you for your inquiry. We appreciate your interest in Acme Corp products.\n\nWe have received your inquiry about the following products: Gadget Basic, Special Item.\n\nWe have all the necessary information to prepare your quote.\n\nWe will provide your quote within 24 hours. If you have any questions, please don't hesitate to contact us at sales@acme.com.",
+  "questions": [
+    "Do you have any specific delivery requirements or timeline preferences?"
+  ],
+  "closing": "Best regards,\n\nAcme Corp Sales Team\nsales@acme.com",
+  "sla_hours": 24,
+  "urgency_level": null
+}
